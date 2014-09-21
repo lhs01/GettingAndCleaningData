@@ -28,15 +28,15 @@ These are: features are normalised and bounded within [-1, 1]
 ## Variables
 
 1 activity - activity that the subject performed during the measurements
-	LAYING
-	SITTING
-	STANDING
-	WALKING
-	WALKING_DOWNSTAIRS
-	WALKING_UPSTAIRS
+	- LAYING
+	- SITTING
+	- STANDING
+	- WALKING
+	- WALKING_DOWNSTAIRS
+	- WALKING_UPSTAIRS
 
 2 subject - person that performed the activity
-	range [1-30]
+	- range [1-30]
 
 The following variables are the means per activity/subject. 
 The values are in the range [-1,1]
@@ -80,7 +80,7 @@ See features_info.txt for the explanation of the terms. (this file is included i
 33 Time BodyAccMag mean
 34 Time BodyAccMag std
 
-35 Time GravityAccMag mean
+35 Time GravityAccMag mean 
 36 Time GravityAccMag std    
 
 37 Time BodyAccJerkMag mean     
@@ -89,38 +89,38 @@ See features_info.txt for the explanation of the terms. (this file is included i
 39 Time BodyGyroMag mean      
 40 Time BodyGyroMag std
 
-41 Time BodyGyroJerkMag mean
+41 Time BodyGyroJerkMag mean 
 42 Time BodyGyroJerkMag std  
 
-43 Freq BodyAcc mean X
-44 Freq BodyAcc mean Y
+43 Freq BodyAcc mean X 
+44 Freq BodyAcc mean Y 
 45 Freq BodyAcc mean Z     
-46 Freq BodyAcc std X
-47 Freq BodyAcc std Y
+46 Freq BodyAcc std X 
+47 Freq BodyAcc std Y 
 48 Freq BodyAcc std Z      
 
-49 Freq BodyAccJerk mean X
-50 Freq BodyAccJerk mean Y
+49 Freq BodyAccJerk mean X 
+50 Freq BodyAccJerk mean Y 
 51 Freq BodyAccJerk mean Z 
-52 Freq BodyAccJerk std X
-53 Freq BodyAccJerk std Y
+52 Freq BodyAccJerk std X 
+53 Freq BodyAccJerk std Y 
 54 Freq BodyAccJerk std Z     
 
-55 Freq BodyGyro mean X
-56 Freq BodyGyro mean Y
+55 Freq BodyGyro mean X 
+56 Freq BodyGyro mean Y 
 57 Freq BodyGyro mean Z   
-58 Freq BodyGyro std X
-59 Freq BodyGyro std Y
+58 Freq BodyGyro std X 
+59 Freq BodyGyro std Y 
 60 Freq BodyGyro std Z 
         
-61 Freq BodyAccMag mean
-62 Freq BodyAccMag std
+61 Freq BodyAccMag mean 
+62 Freq BodyAccMag std 
 
-63 Freq BodyBodyAccJerkMag mean
-64 Freq BodyBodyAccJerkMag std
+63 Freq BodyBodyAccJerkMag mean 
+64 Freq BodyBodyAccJerkMag std 
 
-65 Freq BodyBodyGyroMag mean
+65 Freq BodyBodyGyroMag mean 
 66 Freq BodyBodyGyroMag std   
 
-67 Freq BodyBodyGyroJerkMag mean
-68 Freq BodyBodyGyroJerkMag std" 
+67 Freq BodyBodyGyroJerkMag mean 
+68 Freq BodyBodyGyroJerkMag std 
