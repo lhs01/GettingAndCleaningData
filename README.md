@@ -17,10 +17,10 @@ read.table('./mean.txt', header=TRUE)
 
 ## Run run_analysis.R
 The run_analyses.R file assumes that in the work directory is present:
-# features.txt
-# activity_labels.txt
-# directory train containing the train files
-# directory test containing the test files
+* features.txt
+* activity_labels.txt
+* directory train containing the train files
+* directory test containing the test files
 
 You can get a correct environment by changing the workdirectory to the directoy 'UCI HAR Dataset'. 
 This directory is created when unzipping the zip file.
