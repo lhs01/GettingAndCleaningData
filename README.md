@@ -1,5 +1,7 @@
 # README file for Course Project
 
+This is the solution for the Course Project of the Coursera course 'Getting and Cleaning Data'.
+
 ## Content of the repository
 
 This repository contains the following files.
